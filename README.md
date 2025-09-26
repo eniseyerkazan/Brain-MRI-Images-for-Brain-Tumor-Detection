@@ -44,7 +44,6 @@ Bu proje, beyin MR görüntülerinden tümör var/yok sınıflandırması yapmak
 - Optimizasyon algoritmalarının doğruluk karşılaştırması
 
 ## Kaggle Notebook Linki
-(https://www.kaggle.com/code/eniseyerkazan/akbank)]
 (https://www.kaggle.com/code/eniseyerkazan/akbank)
 ## Kullanım
 1. Kaggle ortamında notebook’u çalıştırabilirsiniz.
