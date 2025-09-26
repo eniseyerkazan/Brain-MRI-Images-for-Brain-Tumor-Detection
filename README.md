@@ -1,5 +1,5 @@
 # Brain-MRI-Images-for-Brain-Tumor-Detection
-# 🧠 Beyin MR Görüntüleri ile Tümör Sınıflandırması
+# Beyin MR Görüntüleri ile Tümör Sınıflandırması
 
 ## Proje Amacı
 Bu proje, beyin MR görüntülerinden tümör var/yok sınıflandırması yapmak için bir **Convolutional Neural Network (CNN)** modeli geliştirmeyi amaçlamaktadır. Model, farklı optimizasyon algoritmalarının performansını karşılaştırarak en iyi doğruluk sağlayanı belirlemeyi hedefler.
